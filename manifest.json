@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Correcteur ChatGPT (Standalone)",
+  "version": "1.0",
+  "description": "Corrige du texte avec ChatGPT, sans backend",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
